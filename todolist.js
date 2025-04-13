@@ -56,7 +56,6 @@ addBtn.addEventListener("click", () => {
     document.querySelector(".input-part").style.display = "none";
     plusBtn.style.display = "block";
 
-    sortTasks();
   }
 });
 
